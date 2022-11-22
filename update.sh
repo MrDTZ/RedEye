@@ -24,6 +24,6 @@ echo -e $r "███████╗░░░██║░░░█████�
 echo -e $r "╚══════╝░░░╚═╝░░░╚══════╝   \e[1;36m[+]\e[1;32m Tool is Updating..." $Y
 echo
 
-git clone 
+git clone https://github.com/MrDTZ/RedEye.git
 
 echo -e "\e[1;36m[+]\e[1;32m Tool Updated...!"
