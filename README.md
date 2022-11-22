@@ -11,7 +11,7 @@
 
 - $ sudo apt upgrade
 
-- $ git clone https://github.com/MrDTZ/BADPHISHER.git
+- $ git clone https://github.com/MrDTZ/RedEye.git
 
 - $ cd RedEye
 
